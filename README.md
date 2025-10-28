@@ -1,30 +1,16 @@
 ## Hi, Hola, Hoi 👋, I'm Fabio Girones
 
-- 🔭 I’m currently working on <b>A Front-end Project in Spain</b>
-- 🌱 I’m currently learning about <b>Data structures and Algorithms</b>
-- 📚 I’m currently studying <b>Economics and Business Economics @ <a href="https://www.ru.nl/en">Radboud University</a></b>
+- 🔭 I’m currently working on <b>a full-stack project</b>
+- 🌱 I’m currently revising <b>mathematics for software engineers and machine learning engineers</b>
+- 📚 I’m currently studying <b>computer science @ <a href="https://github.com/ossu/computer-science">OSSU</a></b>
+- 📚 I graduated with a <b>bachelor of science in economics and business economics @ <a href="https://www.ru.nl/en">Radboud University</a></b>
 - 👯 I’m collaborating with <b>The Inner Team</b>
 - 💬 Inspirational quote: <b>“Consistency is the key to achieving and maintaining momentum.”</b> - Darren Hardy
 - ⚡ Fun fact: I was born in Barcelona (Spain), but didn't speak the language till this year
 
-<table>
-    <tr>
-        <th>My CV</th>
-        <th>List of courses I followed</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/fabiogirones/">🌐</a>
-        </td>
-        <td>
-            <a href="https://github.com/fabiogirones/">📃</a>
-        </td>
-    </tr>
-</table>
-
 ### Contact me:
 
-<a href="https://www.linkedin.com/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://nl.linkedin.com/in/fabiogirones"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
@@ -156,3 +142,38 @@
         </td>
     </tr>
 </table>
+
+### Courses I have followed
+
+#### AI/ML/Data Science
+- Build AI-Powered Apps – An AI Course for Developers - Code With Mosh <a href="https://codewithmosh.com/p/build-ai-powered-apps">[LINK]</a>
+- Data Science and Machine Learning Bootcamp with R - Udemy <a href="https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r">[LINK]</a>
+
+#### Computer Science
+- Ultimate Data Structures & Algorithms: Part 1 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part1">[LINK]</a>
+- Ultimate Data Structures & Algorithms: Part 2 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-2">[LINK]</a>
+- Ultimate Data Structures & Algorithms: Part 3 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-3">[LINK]</a>
+
+#### SysOps
+- The Ultimate Docker Course - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-docker-course">[LINK]</a>
+
+#### Programming/Backend
+- The Complete Node.js Course - Code With Mosh <a href="https://codewithmosh.com/p/the-complete-node-js-course">[LINK]</a>
+- Ultimate Java Part 1: Fundamentals - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-java-part-1">[LINK]</a>
+- Ultimate Java Part 2: Object-oriented Programming - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-java-part-2">[LINK]</a>
+- Ultimate Java Part 3: Advanced Topics - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-java-part-3">[LINK]</a>
+- Spring Boot: Mastering the Fundamentals - Code With Mosh <a href="https://codewithmosh.com/p/build-ai-powered-apps">[LINK]</a>
+- Spring Boot: Mastering REST API Development - Code With Mosh <a href="https://codewithmosh.com/p/spring-boot-building-apis">[LINK]</a>
+- The Ultimate Django Series - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-django-series">[LINK]</a>
+- Spring Boot Course: Learn Spring Boot & Build Web APIs - Udemy <a href="https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp">[LINK]</a>
+
+#### Frontend Dev
+- Next.js Course – Build Full-Stack Apps - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-nextjs-series">[LINK]</a>
+- The Ultimate TypeScript Course - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-typescript">[LINK]</a>
+- The Ultimate JavaScript Series - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-javascript-series">[LINK]</a>
+
+#### Others
+- The Ultimate Git Course - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-git-course">[LINK]</a>
+- Git a Web Developer Job: Mastering the Modern Workflow - Udemy <a href="https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow">[LINK]</a>
+- Adobe Photoshop CC - Essentials Training <a href="https://bringyourownlaptop.com/courses/learn-adobe-photoshop-tutorials-training-course">[LINK]</a>
+- Figma UI UX Design Essentials - Bring Your Own Laptop <a href="[https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow](https://bringyourownlaptop.com/courses/figma-ux-essentials-beginners)">[LINK]</a>
