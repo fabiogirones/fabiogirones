@@ -144,6 +144,11 @@
 </table>
 
 ### Courses I have followed
+#### Soft Skills
+- Complete Agile Scrum Master Certification Training - Udemy <a href="https://www.udemy.com/course/complete-agile-scrum-master-training-exam-simulator" target="_blank">[LINK]</a>
+
+#### Business/Data Analytics
+- Microsoft Power BI Desktop for Business Intelligence - Udemy <a href="https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop" target="_blank">[LINK]</a>
 
 #### AI/ML/Data Science
 - Build AI-Powered Apps – An AI Course for Developers - Code With Mosh <a href="https://codewithmosh.com/p/build-ai-powered-apps" target="_blank">[LINK]</a>
