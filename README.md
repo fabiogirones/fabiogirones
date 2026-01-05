@@ -2,11 +2,10 @@
 
 - 🔭 I’m currently working on <b>a full-stack project</b>
 - 🌱 I’m currently revising <b>mathematics for software engineers and machine learning engineers</b>
-- 📚 I’m currently studying <b>computer science @ <a href="https://github.com/ossu/computer-science">OSSU</a></b>
+- 📚 I’m currently studying <b>data/computer science @ <a href="https://github.com/ossu/computer-science">OSSU</a></b>
 - 📚 I graduated with a <b>bachelor of science in economics and business economics @ <a href="https://www.ru.nl/en" target="_blank">Radboud University</a></b>
-- 👯 I’m collaborating with <b>The Inner Team</b>
 - 💬 Inspirational quote: <b>“Consistency is the key to achieving and maintaining momentum.”</b> - Darren Hardy
-- ⚡ Fun fact: I was born in Barcelona (Spain), but didn't speak the language till this year
+- ⚡ Fun fact: I was born in Barcelona (Spain), but didn't speak the language till 2025
 
 ### Contact me:
 
@@ -153,8 +152,12 @@
 #### AI/ML/Data Science
 - Build AI-Powered Apps – An AI Course for Developers - Code With Mosh <a href="https://codewithmosh.com/p/build-ai-powered-apps" target="_blank">[LINK]</a>
 - Data Science and Machine Learning Bootcamp with R - Udemy <a href="https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r" target="_blank">[LINK]</a>
+- Retrieval Augmented Generation (RAG) Course - DeepLearning.AI <a href="https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/" target="_blank">[LINK]</a>
+- AI for Good Specialization - DeepLearning.AI <a href="https://www.deeplearning.ai/courses/ai-for-good/" target="_blank">[LINK]</a>
 
 #### Computer Science
+- Systematic Program Design - OSSU <a href="https://codewithmosh.com/p/data-structures-algorithms-part1" target="_blank">[LINK]</a>
+- Class-based Program Design - OSSU <a href="https://github.com/ossu/computer-science/blob/master/coursepages/spd/README.md" target="_blank">[LINK]</a>
 - Ultimate Data Structures & Algorithms: Part 1 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part1" target="_blank">[LINK]</a>
 - Ultimate Data Structures & Algorithms: Part 2 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-2" target="_blank">[LINK]</a>
 - Ultimate Data Structures & Algorithms: Part 3 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-3" target="_blank">[LINK]</a>
