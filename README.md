@@ -156,8 +156,8 @@
 - AI for Good Specialization - DeepLearning.AI <a href="https://www.deeplearning.ai/courses/ai-for-good/" target="_blank">[LINK]</a>
 
 #### Computer Science
-- Systematic Program Design - OSSU <a href="https://codewithmosh.com/p/data-structures-algorithms-part1" target="_blank">[LINK]</a>
-- Class-based Program Design - OSSU <a href="https://github.com/ossu/computer-science/blob/master/coursepages/spd/README.md" target="_blank">[LINK]</a>
+- Systematic Program Design - OSSU <a href="https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015" target="_blank">[LINK]</a>
+- Class-based Program Design - OSSU <a href="https://course.ccs.neu.edu/cs2510sp22/index.html" target="_blank">[LINK]</a>
 - Ultimate Data Structures & Algorithms: Part 1 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part1" target="_blank">[LINK]</a>
 - Ultimate Data Structures & Algorithms: Part 2 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-2" target="_blank">[LINK]</a>
 - Ultimate Data Structures & Algorithms: Part 3 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-3" target="_blank">[LINK]</a>
