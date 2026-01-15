@@ -1,6 +1,6 @@
 ## Hi, Hola, Hoi 👋, I'm Fabio Girones
 
-- 🔭 I’m currently working on <b>a full-stack project</b>
+- 🔭 I’m currently working on <b>example projects business/data analysis</b>
 - 🌱 I’m currently revising <b>mathematics for software engineers and machine learning engineers</b>
 - 📚 I’m currently studying <b>data/computer science @ <a href="https://github.com/ossu/computer-science">OSSU</a></b>
 - 📚 I graduated with a <b>bachelor of science in economics and business economics @ <a href="https://www.ru.nl/en" target="_blank">Radboud University</a></b>
@@ -8,11 +8,61 @@
 - ⚡ Fun fact: I was born in Barcelona (Spain), but didn't speak the language till 2025
 
 ### Contact me:
-
 <a href="https://nl.linkedin.com/in/fabiogirones" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-### Toolset
+### Portfolio
+| Project | Focus | Key Skills | Tools & Tech | Business Impact |
+|--------|-------|------------|--------------|-----------------|
+| **Sales Performance Dashboard (Power BI)** | BI & KPI reporting | Data modeling, DAX, Power Query, KPI definition, data storytelling | Power BI, DAX, SQL, CSV | Provides insights into revenue, growth, and product/region performance to support management decision-making |
+| **Customer Segmentation & Churn Analysis** | Customer analytics | RFM analysis, customer segmentation, churn analysis, business recommendations | Python (pandas, scikit-learn), SQL, matplotlib | Identifies high-value and at-risk customers to enable targeted marketing actions |
+| **A/B Test Analysis – Website Conversion** | Experimentation & decision making | Hypothesis testing, statistical analysis, interpretation of results | Python (scipy, statsmodels), SQL | Enables data-driven decisions on website changes based on statistical evidence |
+| **Data Cleaning & Automation Pipeline** | Data quality & processes | Data cleaning, validation, automation, reproducibility | Python (pandas), logging, scripting | Delivers clean, reliable, and reusable datasets for downstream analytics |
 
+### Courses I have followed
+#### Soft Skills
+- Complete Agile Scrum Master Certification Training - Udemy <a href="https://www.udemy.com/course/complete-agile-scrum-master-training-exam-simulator" target="_blank">[LINK]</a>
+
+#### Business/Data Analytics
+- Microsoft Power BI Desktop for Business Intelligence - Udemy <a href="https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop" target="_blank">[LINK]</a>
+
+#### AI/ML/Data Science
+- Build AI-Powered Apps – An AI Course for Developers - Code With Mosh <a href="https://codewithmosh.com/p/build-ai-powered-apps" target="_blank">[LINK]</a>
+- Data Science and Machine Learning Bootcamp with R - Udemy <a href="https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r" target="_blank">[LINK]</a>
+- Retrieval Augmented Generation (RAG) Course - DeepLearning.AI <a href="https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/" target="_blank">[LINK]</a>
+- AI for Good Specialization - DeepLearning.AI <a href="https://www.deeplearning.ai/courses/ai-for-good/" target="_blank">[LINK]</a>
+
+#### Computer Science
+- Systematic Program Design - OSSU <a href="https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015" target="_blank">[LINK]</a>
+- Class-based Program Design - OSSU <a href="https://course.ccs.neu.edu/cs2510sp22/index.html" target="_blank">[LINK]</a>
+- Ultimate Data Structures & Algorithms: Part 1 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part1" target="_blank">[LINK]</a>
+- Ultimate Data Structures & Algorithms: Part 2 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-2" target="_blank">[LINK]</a>
+- Ultimate Data Structures & Algorithms: Part 3 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-3" target="_blank">[LINK]</a>
+
+#### SysOps
+- The Ultimate Docker Course - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-docker-course" target="_blank">[LINK]</a>
+
+#### Programming/Backend
+- The Complete Node.js Course - Code With Mosh <a href="https://codewithmosh.com/p/the-complete-node-js-course" target="_blank">[LINK]</a>
+- Ultimate Java Part 1: Fundamentals - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-java-part-1" target="_blank">[LINK]</a>
+- Ultimate Java Part 2: Object-oriented Programming - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-java-part-2" target="_blank">[LINK]</a>
+- Ultimate Java Part 3: Advanced Topics - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-java-part-3" target="_blank">[LINK]</a>
+- Spring Boot: Mastering the Fundamentals - Code With Mosh <a href="https://codewithmosh.com/p/build-ai-powered-apps" target="_blank">[LINK]</a>
+- Spring Boot: Mastering REST API Development - Code With Mosh <a href="https://codewithmosh.com/p/spring-boot-building-apis" target="_blank">[LINK]</a>
+- The Ultimate Django Series - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-django-series" target="_blank">[LINK]</a>
+- Spring Boot Course: Learn Spring Boot & Build Web APIs - Udemy <a href="https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp" target="_blank">[LINK]</a>
+
+#### Frontend Dev
+- Next.js Course – Build Full-Stack Apps - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-nextjs-series" target="_blank">[LINK]</a>
+- The Ultimate TypeScript Course - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-typescript" target="_blank">[LINK]</a>
+- The Ultimate JavaScript Series - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-javascript-series" target="_blank">[LINK]</a>
+
+#### Others
+- The Ultimate Git Course - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-git-course" target="_blank">[LINK]</a>
+- Git a Web Developer Job: Mastering the Modern Workflow - Udemy <a href="https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow" target="_blank">[LINK]</a>
+- Adobe Photoshop CC - Essentials Training <a href="https://bringyourownlaptop.com/courses/learn-adobe-photoshop-tutorials-training-course" target="_blank">[LINK]</a>
+- Figma UI UX Design Essentials - Bring Your Own Laptop <a href="[https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow](https://bringyourownlaptop.com/courses/figma-ux-essentials-beginners)" target="_blank">[LINK]</a>
+
+### Toolset
 <table>
     <tr>
         <td>Automation Tooling</td>
@@ -141,47 +191,3 @@
         </td>
     </tr>
 </table>
-
-### Courses I have followed
-#### Soft Skills
-- Complete Agile Scrum Master Certification Training - Udemy <a href="https://www.udemy.com/course/complete-agile-scrum-master-training-exam-simulator" target="_blank">[LINK]</a>
-
-#### Business/Data Analytics
-- Microsoft Power BI Desktop for Business Intelligence - Udemy <a href="https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop" target="_blank">[LINK]</a>
-
-#### AI/ML/Data Science
-- Build AI-Powered Apps – An AI Course for Developers - Code With Mosh <a href="https://codewithmosh.com/p/build-ai-powered-apps" target="_blank">[LINK]</a>
-- Data Science and Machine Learning Bootcamp with R - Udemy <a href="https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r" target="_blank">[LINK]</a>
-- Retrieval Augmented Generation (RAG) Course - DeepLearning.AI <a href="https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/" target="_blank">[LINK]</a>
-- AI for Good Specialization - DeepLearning.AI <a href="https://www.deeplearning.ai/courses/ai-for-good/" target="_blank">[LINK]</a>
-
-#### Computer Science
-- Systematic Program Design - OSSU <a href="https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015" target="_blank">[LINK]</a>
-- Class-based Program Design - OSSU <a href="https://course.ccs.neu.edu/cs2510sp22/index.html" target="_blank">[LINK]</a>
-- Ultimate Data Structures & Algorithms: Part 1 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part1" target="_blank">[LINK]</a>
-- Ultimate Data Structures & Algorithms: Part 2 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-2" target="_blank">[LINK]</a>
-- Ultimate Data Structures & Algorithms: Part 3 - Code With Mosh <a href="https://codewithmosh.com/p/data-structures-algorithms-part-3" target="_blank">[LINK]</a>
-
-#### SysOps
-- The Ultimate Docker Course - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-docker-course" target="_blank">[LINK]</a>
-
-#### Programming/Backend
-- The Complete Node.js Course - Code With Mosh <a href="https://codewithmosh.com/p/the-complete-node-js-course" target="_blank">[LINK]</a>
-- Ultimate Java Part 1: Fundamentals - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-java-part-1" target="_blank">[LINK]</a>
-- Ultimate Java Part 2: Object-oriented Programming - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-java-part-2" target="_blank">[LINK]</a>
-- Ultimate Java Part 3: Advanced Topics - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-java-part-3" target="_blank">[LINK]</a>
-- Spring Boot: Mastering the Fundamentals - Code With Mosh <a href="https://codewithmosh.com/p/build-ai-powered-apps" target="_blank">[LINK]</a>
-- Spring Boot: Mastering REST API Development - Code With Mosh <a href="https://codewithmosh.com/p/spring-boot-building-apis" target="_blank">[LINK]</a>
-- The Ultimate Django Series - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-django-series" target="_blank">[LINK]</a>
-- Spring Boot Course: Learn Spring Boot & Build Web APIs - Udemy <a href="https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp" target="_blank">[LINK]</a>
-
-#### Frontend Dev
-- Next.js Course – Build Full-Stack Apps - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-nextjs-series" target="_blank">[LINK]</a>
-- The Ultimate TypeScript Course - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-typescript" target="_blank">[LINK]</a>
-- The Ultimate JavaScript Series - Code With Mosh <a href="https://codewithmosh.com/p/ultimate-javascript-series" target="_blank">[LINK]</a>
-
-#### Others
-- The Ultimate Git Course - Code With Mosh <a href="https://codewithmosh.com/p/the-ultimate-git-course" target="_blank">[LINK]</a>
-- Git a Web Developer Job: Mastering the Modern Workflow - Udemy <a href="https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow" target="_blank">[LINK]</a>
-- Adobe Photoshop CC - Essentials Training <a href="https://bringyourownlaptop.com/courses/learn-adobe-photoshop-tutorials-training-course" target="_blank">[LINK]</a>
-- Figma UI UX Design Essentials - Bring Your Own Laptop <a href="[https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow](https://bringyourownlaptop.com/courses/figma-ux-essentials-beginners)" target="_blank">[LINK]</a>
