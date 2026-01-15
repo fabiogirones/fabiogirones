@@ -1,5 +1,4 @@
 ## Hi, Hola, Hoi 👋, I'm Fabio Girones
-
 - 🔭 I’m currently working on <b>example projects business/data analysis</b>
 - 🌱 I’m currently revising <b>mathematics for software engineers and machine learning engineers</b>
 - 📚 I’m currently studying <b>data/computer science @ <a href="https://github.com/ossu/computer-science">OSSU</a></b>
