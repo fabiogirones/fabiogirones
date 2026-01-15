@@ -9,14 +9,6 @@
 ### Contact me:
 <a href="https://nl.linkedin.com/in/fabiogirones" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-### Portfolio
-| Project | Focus | Key Skills | Tools & Tech | Business Impact |
-|--------|-------|------------|--------------|-----------------|
-| **Sales Performance Dashboard (Power BI)** | BI & KPI reporting | Data modeling, DAX, Power Query, KPI definition, data storytelling | Power BI, DAX, SQL, CSV | Provides insights into revenue, growth, and product/region performance to support management decision-making |
-| **Customer Segmentation & Churn Analysis** | Customer analytics | RFM analysis, customer segmentation, churn analysis, business recommendations | Python (pandas, scikit-learn), SQL, matplotlib | Identifies high-value and at-risk customers to enable targeted marketing actions |
-| **A/B Test Analysis – Website Conversion** | Experimentation & decision making | Hypothesis testing, statistical analysis, interpretation of results | Python (scipy, statsmodels), SQL | Enables data-driven decisions on website changes based on statistical evidence |
-| **Data Cleaning & Automation Pipeline** | Data quality & processes | Data cleaning, validation, automation, reproducibility | Python (pandas), logging, scripting | Delivers clean, reliable, and reusable datasets for downstream analytics |
-
 ### Courses I have followed
 #### Soft Skills
 - Complete Agile Scrum Master Certification Training - Udemy <a href="https://www.udemy.com/course/complete-agile-scrum-master-training-exam-simulator" target="_blank">[LINK]</a>
