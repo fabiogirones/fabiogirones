@@ -1,13 +1,18 @@
 ## Hi, Hola, Hoi 👋, I'm Fabio Girones
 - 🔭 I’m currently working on <b>example projects business/data analysis</b>
-- 🌱 I’m currently revising <b>mathematics for software engineers and machine learning engineers</b>
-- 📚 I’m currently studying <b>data/computer science @ <a href="https://github.com/ossu/computer-science">OSSU</a></b>
+- 🌱 I’m currently revising <b>data analytics</b>
+- 📚 I’m currently studying <b>data science @ <a href="https://github.com/ossu/data-science">OSSU</a></b>
 - 📚 I graduated with a <b>bachelor of science in economics and business economics @ <a href="https://www.ru.nl/en" target="_blank">Radboud University</a></b>
 - 💬 Inspirational quote: <b>“Consistency is the key to achieving and maintaining momentum.”</b> - Darren Hardy
 - ⚡ Fun fact: I was born in Barcelona (Spain), but didn't speak the language till 2025
 
 ### Contact me:
 <a href="https://nl.linkedin.com/in/fabiogirones" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+
+### Portfolio
+| Project | Focus | Key Skills | Tools & Tech | Repository |
+|--------|-------|------------|--------------|------------|
+| **Sales Performance & Business Dashboard** | BI & KPI reporting | Data modeling, Power Query, KPI definition, data storytelling | Power BI | [sales-performance-powerbi](./sales-performance-powerbi) |
 
 ### Courses I have followed
 #### Soft Skills
