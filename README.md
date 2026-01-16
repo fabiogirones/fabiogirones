@@ -12,7 +12,7 @@
 ### Portfolio
 | Project | Focus | Key Skills | Tools & Tech | Repository |
 |--------|-------|------------|--------------|------------|
-| **Sales Performance & Business Dashboard** | BI & KPI reporting | Data modeling, Power Query, KPI definition, data storytelling | Power BI | [sales-performance-powerbi](./sales-performance-powerbi) |
+| **Sales Performance & Business Dashboard** | BI & KPI reporting | Data modeling, Power Query, KPI definition, data storytelling | Power BI | [sales-performance-powerbi](https://github.com/fabiogirones/sales-performance-powerbi) |
 
 ### Courses I have followed
 #### Soft Skills
