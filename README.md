@@ -13,6 +13,7 @@
 | Project | Focus | Key Skills | Tools & Tech | Repository |
 |--------|-------|------------|--------------|------------|
 | **Sales Performance & Business Dashboard** | BI & KPI reporting | Data modeling, Power Query, KPI definition, data storytelling | Power BI | [sales-performance-powerbi](https://github.com/fabiogirones/sales-performance-powerbi) |
+| **Device-Based A/B Test – E-Commerce** | Experimentation & optimization | A/B testing, statistical analysis, conversion optimization, KPI analysis | R | [ab-test-device-ecommerce](https://github.com/fabiogirones/ab-test-ecommerce) |
 
 ### Courses I have followed
 #### Soft Skills
